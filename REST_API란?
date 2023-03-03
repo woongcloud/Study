@@ -14,7 +14,6 @@ write.html을 보고싶으면 /write로 접속하라는 API를 정의하고 계�
 
  
  
- 
 REST API는 무엇인가
 Representational State Transfer 라는 뜻인데 그냥 어떤 아조씨가 주장하는 API 디자인 방법입니다.
 그런데 유명해져서 요즘은 거의 정론이 되었지만요.
@@ -89,4 +88,4 @@ facebook.com/bbc/photos 이거 딱봐도 BBC뉴스 페북계정의 사진첩인 
 예를 들면 우리가 지금까지 제가만든 서버API 중에
 /add로 POST 요청을 하면 ~해주세요 
 이런 API 있었죠?
-그런데 이걸 /newpost로 POST 요청을 하면 ~해주세요  뭐 이런식으로 명사로 바꾸면 조금 더 REST 해지겠네요.
+그런데 이걸 /newpost로 POST 요청을 하면 ~해주세요  뭐 이런식으로 명사로 바꾸면 조금 더 REST 해지겠네요!
